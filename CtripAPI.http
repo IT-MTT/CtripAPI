@@ -1,0 +1,6 @@
+@CtripAPI_HostAddress = http://localhost:5104
+
+GET {{CtripAPI_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
